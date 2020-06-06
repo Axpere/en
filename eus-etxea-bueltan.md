@@ -2,7 +2,7 @@
 layout: page
 title: Euskara
 icon: fa-globe
-order: 5
+order: 6
 hide: false
-permalink: https://www.espazioa.eu/
+permalink: /
 ---
