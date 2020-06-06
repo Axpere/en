@@ -17,4 +17,4 @@ To change the language to [Euskara click here][1].
 [1]: https://www.espazioa.eu "Espazioa.eu"
 [2]: https://eu.wikipedia.org/wiki/Euskara "Wikipedia: Euskara"
 [3]: https://en.wikipedia.org/wiki/Basque_language "Wikipedia: Basque language"
-[1^]: https://en.wikipedia.org/wiki/Basque_language "Wikipedia: Basque language"
+[^1]: https://en.wikipedia.org/wiki/Basque_language "Wikipedia: Basque language"
