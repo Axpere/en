@@ -4,5 +4,5 @@ title: Euskara
 icon: fa-globe
 order: 5
 hide: false
-permalink: www.espazioa.eu
+permalink: https://www.espazioa.eu/
 ---
