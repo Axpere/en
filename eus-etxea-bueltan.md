@@ -7,7 +7,7 @@ hide: false
 
 ---
 
-| # :warning: **Language change warning** |
+| :warning:  **Language change warning** |
 |---|
 
 >You are going to enter the main site in its [original language][1].
