@@ -7,8 +7,7 @@ hide: false
 
 ---
 
-| icon: fa-exclamation-triangle  **Language change warning** |
-|:-:|
+# **Language change warning** 
 
 >You are going to enter the main site in its [original language][1].
 >[Euskara][2] or [Basque][3] is the oldest indo-european language still in use[^1].
