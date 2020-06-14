@@ -7,10 +7,10 @@ hide: false
 
 ---
 
-# **Language change warning** 
+# **Language change warning** <br/>
 
 >You are going to enter the main site in its [original language][1].
->[Euskara][2] or [Basque][3] is the oldest indo-european language still in use[^1].
+>[Euskara][2] or [Basque][3] is the oldest indo-european language still in use[^1]. <br/>
 
 To change the language to [Euskara click here][1].
 
