@@ -2,7 +2,7 @@
 title: Consulting
 icon: fa-check
 order: 3
-hide: true
+hide: false
 ---
 
 # Consulting
